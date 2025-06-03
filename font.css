@@ -2,3 +2,12 @@
   font-family: 'main';
   src: url('https://cdn.jsdelivr.net/gh/SemKry/annaprofiruicons@main/Strobos/Gilroy-Regular.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'mainBold';
+  src: url('https://cdn.jsdelivr.net/gh/SemKry/annaprofiruicons@main/Strobos/Gilroy-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'mainLight';
+  src: url('https://cdn.jsdelivr.net/gh/SemKry/annaprofiruicons@main/Strobos/Gilroy-Light.ttf') format('truetype');
+}
